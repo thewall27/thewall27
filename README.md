@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### 😄About me
 A budding developer who loves working with Data Science, Machine Learnig and Deep Learning(Specially Computer Vison). I keep optmizing my ML skills as if I am optimizing my trained models. I have TensorFlow(2.x), Python, Kears, OpenCV, Pandas, Numpy, Matplotlib, Scikit-Learn, Tableau, Rasterio, Flask, Beautifull Soup, Request, Spacy and NLTK under my belt. Also got my hands dirty with Augmented Reality tech.
 
-### 🌱What do I do for fun?
+### 🌱What I do for fun?
 - Sketching
 - Watching Anime
 - Rope Skipping
