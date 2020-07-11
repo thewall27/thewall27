@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Dhaval Limbachiya!
 
 <!--
 **thewall27/thewall27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 😄About me
+A budding developer who loves working with Data Science, Machine Learnig and Deep Learning(Specially Computer Vison). I keep optmizing my ML skills as if I am optimizing my trained models. I have TensorFlow(2.x), Python, Kears, OpenCV, Pandas, Numpy, Matplotlib, Scikit-Learn, Tableau, Rasterio, Flask, Beautifull Soup, Request, Spacy and NLTK under my belt. Also got my hands dirty with Augmented Reality tech.
+
+### 🌱What do I do for fun?
+- Sketching
+- Watching Anime
+- Rope Skipping
+
+### ⚡Would Love to connect with people and make projects in collaboration⚡
