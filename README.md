@@ -22,4 +22,4 @@ A budding developer who loves working with Data Science, Machine Learnig and Dee
 - Watching Anime
 - Rope Skipping
 
-### ⚡Would Love to connect with people and make projects in collaboration⚡
+### ⚡Would love to connect with people and make projects in collaboration⚡
